@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+*.py[cod]
+.env
+.pytest_cache/
+.coverage
+.DS_Store
+.idea/
+.vscode/
+artifacts/
+mlruns/
+*.db
+data/output/
+data/checkpoints/
